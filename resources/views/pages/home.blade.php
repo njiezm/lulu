@@ -141,7 +141,7 @@
                 <div class="text-xl font-light group-hover:text-gold transition-colors italic">0696 91 92 66</div>
             </a>
             <div class="hidden md:block w-[1px] h-10 bg-white/10"></div>
-            <a href="https://wa.me/33696919266" class="group">
+            <a href="https://wa.me/596696919266" class="group">
                 <div class="text-gold text-[10px] uppercase tracking-[0.3em] mb-2">WhatsApp</div>
                 <div class="text-xl font-light group-hover:text-gold transition-colors italic">Message Direct</div>
             </a>

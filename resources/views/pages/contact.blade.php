@@ -28,7 +28,7 @@
                             </div>
                         </a>
 
-                        <a href="https://wa.me/33696919266" target="_blank" class="group flex items-start gap-6">
+                        <a href="https://wa.me/596696919266" target="_blank" class="group flex items-start gap-6">
                             <i class="fab fa-whatsapp text-gold/40 mt-1 group-hover:text-gold transition-colors"></i>
                             <div>
                                 <p class="text-[11px] uppercase tracking-widest text-stone-400 mb-1">WhatsApp</p>
