@@ -1,5 +1,4 @@
-<header class="absolute top-0 left-0 w-full z-50 bg-black/40 backdrop-blur-sm border-b border-white/10" x-data="{ mobileMenuOpen: false }">
-    <nav class="container mx-auto px-6 py-3 flex items-center justify-between">
+<header class="fixed top-0 left-0 w-full z-50 bg-black/40 backdrop-blur-sm border-b border-white/10" x-data="{ mobileMenuOpen: false }">    <nav class="container mx-auto px-6 py-3 flex items-center justify-between">
         <a href="{{ route('home') }}" class="flex items-center group">
             <img src="{{ asset('images/logo.png') }}" alt="Lulu Barber Logo" class="h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105">
         </a>
